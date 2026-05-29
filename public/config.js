@@ -33,7 +33,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "@SolanaBuilderAi",
   "VITE_SEO_THEME_COLOR": "#6dd99c",
   "VITE_SEO_KEYWORDS": "crypto trading, perp trading, meme coin trading, rug checker, crypto predictions, degen trading, futures trading, onchain analytics, crypto news, Solana meme coins, Ethereum trading, crypto scanner, alpha calls, whale tracking, token analytics, trading signals, leverage trading, web3 trading, crypto dashboard, trending tokens, DEX trading, wallet tracker, market insights, meme coin scanner, crypto terminal, green candles, crypto alpha, live charts, profit sharing, glitch hacker UI, degen hub, Du",
-  "VITE_AVAILABLE_LANGUAGES": "",
+  "VITE_AVAILABLE_LANGUAGES": "en",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "4",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
